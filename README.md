@@ -1,6 +1,3 @@
 # hello-world
-Demo test repo
 
-Hi Humans!
-
-FIrst txt pad 
+Lets make change in subbranch and merge to main branch
